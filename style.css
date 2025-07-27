@@ -1,0 +1,56 @@
+div p{
+    background-color: #bd264c;
+    color: white;
+    height: 80px;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-size: 35px;
+    line-height: 80px;
+    text-indent: 40px;
+    margin-bottom: -18px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+table{
+    width: 900px;
+    border-collapse: collapse;
+    background-color: rgb(224, 228, 230);
+    margin: auto;
+    border-bottom-right-radius: 21px;
+    border-bottom-left-radius: 20px;
+    
+    
+}
+
+table td div img{
+    border-radius: 500px;
+    display: flex;
+}
+
+table th{
+    padding: 12px 10px;
+
+}
+
+table td{
+    text-align: center;
+    
+   
+}
+
+table td div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+table td{
+    padding: 1px 15px;
+}
+
+table td ul{
+    display: flex;
+    list-style-type: none;
+    gap: 5px;
+}
